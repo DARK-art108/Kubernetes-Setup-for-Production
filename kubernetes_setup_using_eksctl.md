@@ -34,6 +34,9 @@ You can follow same procedure in the official  AWS document [Getting started wit
    EC2   
    VPC    
    CloudFormation
+   ```sh
+   aws configure
+   ```
 
 4. Create your cluster and nodes 
    ```sh
